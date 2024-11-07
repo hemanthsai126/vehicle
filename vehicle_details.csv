@@ -1,0 +1,76 @@
+Ticket Number,How was the issue observed,What is the issue,Why is this an issue,Root cause,Root cause category,Solution implemented,Team solved
+T001,Error code on dashboard,Charging stopped at 60%,Incomplete charging affects driving range,Faulty charging cable,Hardware,Replaced cable,Charging
+T002,Vehicle unable to charge,Plug does not latch properly,Unable to initiate charging,Damaged charging port,Hardware,Replaced charging port,Maintenance
+T003,Charging time unusually long,Charging rate dropped to 3kW,Longer charging time impacts vehicle usability,Power fluctuation in grid,External,Verified power supply,Charging
+T004,Routine inspection,Frayed charging cable,Safety hazard due to potential short-circuit,Poor material quality,Manufacturing,Replaced cable,Maintenance
+T005,Customer complaint,Vehicle battery not reaching full charge,Reduced driving range,Calibration issue in charging,Software,Calibrated battery charging system,Engineering
+T006,Error message on charging station,Communication error between vehicle and charger,Inability to start or continue charging,Firmware mismatch,Software,Updated firmware,IT
+T007,Charge incomplete notification,Charging session interrupted,Leads to frequent visits to the charging station,Overheating detected,Hardware,Improved cooling system,Charging
+T008,Vehicle inspection,Minor burn marks on plug,Possible risk of electric shock,Arcing in charging socket,Hardware,Replaced charging socket,Maintenance
+T009,Performance testing,Slow DC fast charging rate,Long wait times at public stations,Faulty cooling system,Hardware,Replaced cooling system,Engineering
+T010,During diagnostic,Battery charge level fluctuates,Unreliable battery gauge,Loose connection in battery,Electrical,Repaired connection,Electrical
+T011,Driver reported,Charger keeps restarting,Delays full charge completion,Malfunction in charger software,Software,Reinstalled software,IT
+T012,Error code on app,Charge scheduling failed,User inconvenience,Software bug,Software,Bug fix and update,Engineering
+T013,Inspection after charge,Plug becomes warm quickly,Risk of overheating or damage,High resistance in connector,Hardware,Replaced connector,Maintenance
+T014,Charging station audit,Socket locking mechanism stuck,Disruption in charging process,Physical damage to mechanism,Hardware,Repaired locking mechanism,Maintenance
+T015,Routine diagnostic,Charge speed fluctuating,Unpredictable charging times,Power delivery issue,Electrical,Replaced power regulator,Charging
+T016,Customer feedback,Charger doesn't start when plugged,Charging fails completely,Faulty contact points,Hardware,Replaced contact points,Electrical
+T017,Remote monitoring alert,Battery not holding charge effectively,Reduces overall vehicle range,Degradation in battery cells,Hardware,Replaced battery,Engineering
+T018,Driver complaint,Charging halts midway,Incomplete charging affects daily use,Software glitch,Software,Software update,IT
+T019,Error code from system,Faulty power relay during charge,Risk of electric failure,Defective relay switch,Hardware,Replaced relay switch,Electrical
+T020,Charge test,Charging stops when door opens,Unexpected behavior; disrupts charging,Faulty door sensor,Electrical,Replaced door sensor,Electrical
+T021,Charging station report,Connector jammed,Prevents connection with vehicle,Dirt accumulation,External,Cleaned connector,Maintenance
+T022,Vehicle inspection,Battery overheats during charge,Risk of battery degradation or damage,Cooling system failure,Hardware,Replaced cooling system,Maintenance
+T023,Charging session log,Charging stalls at random percentages,Inconsistent charging experience,Software timeout,Software,Increased timeout limit,IT
+T024,User report,Vehicle requires restart to begin charging,Frustrating user experience,Software reset needed,Software,Reinstalled software,IT
+T025,Charging port inspection,Pins in connector bent,Inability to connect to charger,Physical wear,Hardware,Replaced connector pins,Maintenance
+T026,Technician report,High power draw during initial charge,May cause electrical overload,Malfunctioning power regulator,Electrical,Replaced power regulator,Electrical
+T027,Error code from charging unit,Voltage spike detected,Potential damage to battery,Power surge,External,Verified surge protection,Electrical
+T028,Customer service call,Vehicle unable to charge at specific stations,Limits charging options for users,Incompatibility with charger type,Compatibility,Replaced charger with compatible model,IT
+T029,Routine maintenance,Battery calibration failure,Battery not fully charged,Firmware bug,Software,Firmware update,Engineering
+T030,Dashboard error,Battery drops suddenly after charging,Confuses user on battery status,Sensor issue in battery module,Hardware,Repaired sensor,Electrical
+T031,Charge session interrupted,Plug got unusually hot,Possible safety hazard,High resistance in wiring,Hardware,Replaced wiring,Maintenance
+T032,Charging analysis,Charger refuses to initiate,Affects charging availability,Defective RFID reader,Hardware,Replaced RFID reader,IT
+T033,Performance review,Overcharge protection not triggering,Battery overcharge can damage cells,Sensor calibration error,Software,Sensor recalibration,IT
+T034,Visual inspection,Loose plug attachment,Charging disrupts if plug moves,Worn out connector latch,Hardware,Replaced latch,Maintenance
+T035,Log analysis,Charge session recorded incomplete,Incomplete charge logs affect data accuracy,Software logging issue,Software,Software update,IT
+T036,Error from charging station,Thermal sensor error,Cannot monitor temperature accurately,Sensor malfunction,Electrical,Replaced thermal sensor,Maintenance
+T037,Driver report,Constant clicking sound during charge,Indicates faulty component,Malfunction in relay,Electrical,Replaced relay,Electrical
+T038,Routine diagnostic,Unable to start charge,Charging does not initiate,Faulty onboard charger,Hardware,Replaced onboard charger,Maintenance
+T039,Customer feedback,Charge indicator remains static,Misleading battery status,Faulty indicator system,Hardware,Repaired indicator,Electrical
+T040,Inspection report,Connector doesn't fit into charging port,Charging session fails,Misalignment of connector,Hardware,Realigned connector,Maintenance
+T041,Diagnostic check,Charge rate limited to 1kW,"Slow charging, impacts usability",Faulty power converter,Hardware,Replaced converter,Electrical
+T042,Charging station error,Station unable to detect vehicle,No communication between vehicle and charger,Communication failure,Software,Fixed communication issue,IT
+T043,Report from technician,Charging takes longer than expected,Inconvenience for users,Faulty charging module,Hardware,Replaced charging module,Maintenance
+T044,User complaint,Charging stops after few minutes,Users unable to complete charge cycle,Overheating of charging system,Hardware,Replaced cooling fans,Maintenance
+T045,Inspection after service,Intermittent charging failure,Stops charging mid-session,Faulty power plug,Hardware,Replaced power plug,Maintenance
+T046,Charging stopped mid-way,Charging interrupted,Vehicle unable to reach full charge,Faulty fuse,Electrical Component Failure,Fuse replacement; system reset,Electrical Team
+T047,Error light on dash,Charging error,Driver unable to charge vehicle,Outdated software,Software Issue,Software update; calibration,Software Team
+T048,Slow charging observed,Charging slow,Prolonged charging time affects vehicle availability,Damaged cable,Hardware Issue,Cable replacement,Electrical Team
+T049,Overheating smell from charging port,Port overheating,Safety risk to vehicle and user,Faulty thermal sensor,Electrical Component Failure,Port and sensor replacement,Electrical Team
+T050,Dashboard message: 'Check Charger',Charger malfunction,Unable to initiate charge,Loose connection,Connection Issue,Reboot; secure connections,Maintenance Team
+T051,Charging cycles interrupted,Inconsistent charging cycles,Vehicle not reaching full capacity,Defective control module,Hardware Issue,Control module replacement,Electrical Team
+T052,Charging light flickers intermittently,Charging stability issue,Inconsistent charging affects charge level,Loose connection,Connection Issue,Firmware update; secured connections,Software Team
+T053,Charge level drops post charging,Battery discharges after charge,Limited range for vehicle,Faulty battery cell,Battery Issue,Battery cell replacement,Battery Team
+T054,Error code E45 displayed,Charging failure,Charge process unable to start,Faulty relay,Electrical Component Failure,Relay replacement,Electrical Team
+T055,High-pitched sound during charging,Unusual noise in charger,Potential electrical fault,Faulty internal component,Electrical Component Failure,Charging unit replacement,Electrical Team
+T056,Battery warning light on,Charging incomplete,Vehicle cannot reach full charge,Battery degradation,Battery Issue,Partial battery replacement,Battery Team
+T057,Error code E20 on dashboard,Communication error with charger,Vehicle unable to receive charge,Malfunctioning communication module,Hardware Issue,Communication module replacement,Electrical Team
+T058,Charger shuts off unexpectedly,Interruption during charging,Unable to complete charge cycle,Circuit breaker fault,Electrical Component Failure,Circuit breaker replacement,Electrical Team
+T059,Charge port overheating,Overheating of charging components,Safety risk due to heat,Inadequate cooling,Design Issue,Cooling component upgrade,Engineering Team
+T060,Charge port not connecting properly,Loose charging connection,Charge cannot initiate correctly,Misaligned connectors,Physical Damage,Connector realignment,Maintenance Team
+T061,Battery warning during charge,Battery voltage issue,Safety concern; possible battery damage,Defective battery regulator,Battery Issue,Regulator replacement,Battery Team
+T062,Charge level inconsistent after charging,Erratic charge level,Potential range reduction,Sensor miscalibration,Software Issue,Battery system recalibration,Software Team
+T063,Charge rate slower than specification,Suboptimal charging rate,Delayed vehicle availability,Poor quality cable,Hardware Issue,High-quality cable replacement,Electrical Team
+T064,Dashboard warning during charge,Battery overheating,Safety risk,Faulty temperature sensor,Electrical Component Failure,Sensor replacement,Battery Team
+T065,Charge port damaged,Physical damage to port,Charger unable to connect,Physical damage,Physical Damage,Port replacement,Maintenance Team
+T066,Intermittent charging cycles,Charging intermittently halts,Unreliable charging process,Firmware bug,Software Issue,Firmware update,Software Team
+T067,Flickering light during charging,Charging light flickers,Indicates unstable charging,Faulty LED indicator,Electrical Component Failure,LED replacement,Electrical Team
+T068,Unusual smell near charging area,Overheating risk detected,Potential risk of fire or damage,Defective cooling fan,Hardware Issue,Cooling fan replacement,Engineering Team
+T069,Charging speed varied across attempts,Variable charging rate,Inconsistent vehicle availability,System miscalibration,Software Issue,Management system recalibration,Software Team
+T070,Charge does not reach full level,Charging stops at 80%,Reduced range,Battery management failure,Battery Issue,Battery system replacement,Battery Team
+T071,Charging cable overheats,Excessive heat on cable,Safety hazard during charge,Cable insulation failure,Design Issue,High-temperature cable replacement,Engineering Team
+T072,Dashboard shows 'Charge Failure',Charger fails intermittently,Incomplete charge cycle,Loose wiring,Connection Issue,Connection inspection and securing,Maintenance Team
+T073,Charging port intermittently unresponsive,Inconsistent charging initiation,Delayed charging process,Faulty connection,Physical Damage,Port replacement,Maintenance Team
+T074,Battery overheats quickly,Overheating of battery,Safety concern due to heat,Faulty thermal management,Battery Issue,Module replacement,Battery Team
+T075,Charging stopped with error code E50,Software issue,Charging stops unexpectedly,Software glitch,Software Issue,System reset and update,Software Team
