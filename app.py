@@ -4,7 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import streamlit as st
 
 # Load data
-df = pd.read_csv('D:/Downloads/vehicle_details.csv')
+df = pd.read_csv('vehicle_details.csv')
 df['combined_features'] = df['How was the issue observed'] + ' ' + df['What is the issue'] + ' ' + df['Why is this an issue']
 
 # Create TF-IDF vectorizer and transform existing data
