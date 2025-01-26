@@ -36,6 +36,7 @@ def predict_issue(observation, issue, issue_reason):
 # Streamlit interface
 def home_page():
     st.title("Vehicle Issue Prediction Tool")
+    st.write("This is just a sample page and the data used here is generated using AI")
 
     # Get user input for the issue description
     observation = st.text_input("How was the issue observed:")
